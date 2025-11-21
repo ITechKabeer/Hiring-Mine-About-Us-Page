@@ -48,12 +48,13 @@ This project helped in mastering:
 ---
 
 ## 🧾 Folder Structure
+```css
 Hiring-Mine-About-Us-Page/
 │
 ├── index.html
 ├── style.css
 └── README.md
-
+```
 
 ---
 
